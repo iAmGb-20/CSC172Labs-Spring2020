@@ -1,0 +1,59 @@
+Name: Godbless Chille
+ 		Anisha Bhattacharya
+NETID: gchille
+		abhatta9
+To compile, please run BSTester.java.
+The output should look like this:
+
+1
+3
+4
+5
+6
+7
+8
+preorder traversal of the tree gives: 
+
+5
+4
+1
+3
+7
+6
+8
+postorder traversal of the tree gives: 
+
+3
+1
+4
+6
+8
+7
+5
+
+inorder traversal of the tree AFTER DELETION gives: 
+
+1
+3
+5
+6
+7
+8
+preorder traversal of the tree AFTER DELETION gives: 
+
+5
+1
+3
+7
+6
+8
+postorder traversal of the tree AFTER DELETION gives: 
+
+3
+1
+6
+8
+7
+5
+
+the tree contains 4: false

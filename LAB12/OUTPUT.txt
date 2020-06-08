@@ -1,0 +1,95 @@
+
+CSC 172 LAB 12 OUTPUT FILE
+Name: Godbless Chille
+	 Anisha Bhattacharya
+NETID: gchille
+	 abhatta9
+
+Here is the output:
+
+dhcp-10-5-32-57:LAB12 godblesschille$ javac *.java
+dhcp-10-5-32-57:LAB12 godblesschille$ java Graph tester.txt
+Graph: 
+0: 1 3 
+1: 3 4 
+2: 0 5 
+3: 2 4 5 6 
+4: 6 
+5: 
+6: 5 
+7
+here is the path from initial to final vertex
+1
+4
+dhcp-10-5-32-57:LAB12 godblesschille$ java Graph tester2.txt
+Graph: 
+0: 
+1: 0 
+2: 1 
+3: 2 
+4: 3 
+5: 4 
+6: 5 
+7: 6 
+8: 7 
+9
+here is the path from initial to final vertex
+0
+dhcp-10-5-32-57:LAB12 godblesschille$ java Graph tester3.txt
+Graph: 
+0: 1 3 4 
+1: 0 2 3 
+2: 1 3 4 
+3: 0 1 2 
+4: 0 2 
+5
+here is the path from initial to final vertex
+1
+0
+4
+dhcp-10-5-32-57:LAB12 godblesschille$ java Graph tester4.txt
+Graph: 
+0: 1 2 
+1: 3 4 
+2: 5 6 
+3: 
+4: 
+5: 
+6: 
+7
+here is the path from initial to final vertex
+1
+4
+dhcp-10-5-32-57:LAB12 godblesschille$ java Graph tester5.txt
+Graph: 
+0: 1 2 
+1: 0 3 
+2: 0 3 
+3: 1 2 4 5 
+4: 3 6 
+5: 3 6 
+6: 4 5 
+7
+here is the path from initial to final vertex
+1
+3
+4
+dhcp-10-5-32-57:LAB12 godblesschille$ java Graph tester6.txt
+Graph: 
+0: 1 2 
+1: 0 3 
+2: 0 3 4 
+3: 1 2 5 
+4: 2 5 
+5: 3 4 
+6
+here is the path from initial to final vertex
+1
+0
+2
+4
+
+
+NB: consider the vertices starting from 0 instead of 1. Eg. Vertex v1 shown in an example of directed graph is considered as vertex '0' instead. Try to consider it this way.
+
+

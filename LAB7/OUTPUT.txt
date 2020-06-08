@@ -1,0 +1,17 @@
+Godbless Chille-gchille
+Anisha Bhattacharya-abhatta9
+
+Here is the expected output for the myQueue.java file
+
+
+Element 1 is added into queue
+Element 2 is added into queue
+Element 3 is added into queue
+Element 4 is added into queue
+removing/dequeing of element '9'
+removing/dequeing of element '100'
+removing/dequeing of element '200'
+removing/dequeing of element '300'
+
+here is the current size of the queue: 1
+peeking element on top of the queue 400
